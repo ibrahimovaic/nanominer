@@ -1,0 +1,2 @@
+# nanominer
+VPS Nanominer
